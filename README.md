@@ -1,1 +1,1 @@
-This json feeds the fetch request from https://one-movie-discover.vercel.app/lists
+This json feeds the fetch request from (Discovarr App)[https://discovarr.brandez.online/]
