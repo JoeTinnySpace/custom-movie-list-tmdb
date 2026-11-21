@@ -1,19 +1,27 @@
 {
-  "Post-Apocalyptic Survival & Wastelands": [
-    42188,
-    55420,
-    585378,
-    31011,
-    152601,
-    765245
+  "Cosmic Dread & Space Horizons": [
+    157336,
+    62,
+    329865,
+    286217,
+    17431,
+    593
   ],
-  "Mindfuck & Reality Glitches": [
+  "Heist Masterminds & High Stakes": [
+    161,
+    949,
+    9654,
+    388,
     27205,
-    11324,
-    603,
-    37165,
-    268,
-    220289
+    23168
+  ],
+  "Aesthetic Visual Masterpieces": [
+    207,
+    313369,
+    4951,
+    84892,
+    38,
+    550
   ],
   "Neon & Midnight Drives": [
     8072,
@@ -22,13 +30,5 @@
     5165,
     31589,
     8073
-  ],
-  "Adrenaline & Unhinged Chaos": [
-    76341,
-    245891,
-    10719,
-    1637,
-    325348,
-    1979
   ]
 }
